@@ -1,0 +1,2 @@
+in sql we have a totally four type of data type 
+char varchar num character large object binary large object
